@@ -1,9 +1,9 @@
 title: ScanGov
-description: Government digital experience monitor
-url: https://scangov.org
+description: California government digital experience monitor
+url: https://ca.scangov.org
 org: Civic Hacking Agency
 org-url: https://civichackingagency.org
-repo: https://github.com/civichackingagency/scangov
+repo: https://github.com/civichackingagency/scangov-california
 rss: https://docs.scangov.org/feed.xml
 
 # Build settings
