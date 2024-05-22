@@ -1,0 +1,197 @@
+domain,redirect,agency,status,title,description,keywords,robots,viewport,canonical,og_locale,og_site_name,og_type,og_title,og_description,og_url,og_image,og_image_width,og_image_height,og_image_alt,twitter_site,twitter_card,twitter_title,twitter_description,twitter_image
+abortion.ca.gov,"https://abortion.ca.gov/","State of California",200,true,true,true,false,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,false,true
+acupuncture.ca.gov,"https://acupuncture.ca.gov/","California Acupuncture Board",200,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+oal.ca.gov,"https://oal.ca.gov/","Office of Administrative Law",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+ccoa.ca.gov,"undefined","California Commission on Aging",500,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+aging.ca.gov,"undefined","Department of Aging",500,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+alrb.ca.gov,"https://www.alrb.ca.gov/","Agricultural Labor Relations Board",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+ww2.arb.ca.gov,"http://ww2.arb.ca.gov/","Air Resources Board",200,true,true,false,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+abcab.ca.gov,"https://abcab.ca.gov/","Alcoholic Beverage Control Appeals Board",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+abc.ca.gov,"https://www.abc.ca.gov/","Department of Alcoholic Beverage Control",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cab.ca.gov,"https://cab.ca.gov/","California Architects Board",200,true,true,false,false,true,false,true,true,true,true,true,false,false,false,false,false,true,true,true,true,true
+arts.ca.gov,"https://arts.ca.gov/","California Arts Council",200,true,true,false,true,true,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,false
+assembly.ca.gov,"https://www.assembly.ca.gov/","California State Assembly",200,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+bsa.ca.gov,"https://www.auditor.ca.gov/","California State Auditor",200,true,true,false,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,false,false,false
+bar.ca.gov,"https://bar.ca.gov/","Bureau of Automotive Repair",200,true,true,true,false,true,false,false,true,false,true,true,false,true,true,true,false,true,false,true,true,false
+bhc.ca.gov,"https://bhc.ca.gov/","Baldwin Hills Conservancy",200,true,false,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+calbar.ca.gov,"https://www.calbar.ca.gov/","State Bar of California",200,true,true,true,true,true,false,false,false,false,true,true,false,true,false,false,false,false,true,false,false,false
+barbercosmo.ca.gov,"https://barbercosmo.ca.gov/","Board of Barbering and Cosmetology",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+bbs.ca.gov,"https://bbs.ca.gov/","Board of Behavioral Sciences",200,true,true,true,false,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false
+biodiversity.ca.gov,"undefined","California Biodiversity Council",500,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+brea.ca.gov,"https://brea.ca.gov/","Bureau of Real Estate Appraisers",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+business.ca.gov,"https://business.ca.gov/","Governor's Office of Business and Economic Development",200,true,true,true,true,true,true,false,true,true,true,true,true,false,false,false,false,true,true,true,true,false
+bcsh.ca.gov,"https://bcsh.ca.gov/","California Business, Consumer Services, and Housing Agency",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cppa.ca.gov,"https://cppa.ca.gov/","California Privacy Protection Agency",200,true,true,true,false,true,false,false,false,false,false,false,false,true,true,true,false,false,false,false,false,false
+ccap.ca.gov,"https://ccap.ca.gov/","Cannabis Control Appeals Panel",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cannabis.ca.gov,"https://cannabis.ca.gov/","Department of Cannabis Control",200,true,true,true,false,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,false,true
+cfb.ca.gov,"https://cfb.ca.gov/","Cemetery and Funeral Bureau",200,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cvfpb.ca.gov,"https://cvfpb.ca.gov/","Central Valley Flood Protection Board",200,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+childsupport.ca.gov,"https://childsupport.ca.gov/","Department of Child Support Services",200,true,true,true,false,true,true,true,true,true,true,false,true,false,false,false,false,false,true,true,false,false
+chiro.ca.gov,"https://chiro.ca.gov/","Board of Chiropractic Examiners",200,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+wedrawthelines.ca.gov,"https://wedrawthelines.ca.gov/","Citizens Redistricting Commission",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+calcivilrights.ca.gov,"https://calcivilrights.ca.gov/","Civil Rights Department",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cvmc.ca.gov,"https://cvmc.ca.gov/","Coachella Valley Mountains Conservancy",200,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+coastal.ca.gov,"https://coastal.ca.gov/","California Coastal Commission",200,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+scc.ca.gov,"https://scc.ca.gov/","State Coastal Conservancy",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+crb.ca.gov,"https://crb.ca.gov/","Colorado River Board of California",200,true,false,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cccco.edu,"https://www.cccco.edu/","California Community Colleges",200,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+csd.ca.gov,"https://csd.ca.gov/","Department of Community Services and Development",200,true,true,true,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+ccc.ca.gov,"https://ccc.ca.gov/","California Conservation Corps",200,true,true,true,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+conservation.ca.gov,"https://www.conservation.ca.gov/","Department of Conservation",200,true,true,true,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+dca.ca.gov,"https://dca.ca.gov/","Department of Consumer Affairs",200,true,true,true,false,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false
+cslb.ca.gov,"https://cslb.ca.gov/","Contractors State License Board",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+sco.ca.gov,"https://sco.ca.gov/","State Controller's Office",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+coolcalifornia.arb.ca.gov,"https://coolcalifornia.arb.ca.gov/","Cool California",200,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cdcr.ca.gov,"https://www.cdcr.ca.gov/","California Department of Corrections and Rehabilitation",200,true,true,false,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true,false,false,false
+counties.org,"https://www.counties.org/","California State Association of Counties",200,true,true,false,false,false,true,false,true,true,true,true,true,true,false,false,false,false,true,true,true,true
+courtreportersboard.ca.gov,"https://courtreportersboard.ca.gov/","Court Reporters Board of California ",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+courts.ca.gov,"https://www.courts.ca.gov/","California Courts",200,true,true,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+innovation.ca.gov,"https://innovation.ca.gov/","Office of Data and Innovation",200,true,true,false,false,true,false,true,true,true,true,true,false,true,true,true,false,false,true,true,false,true
+hub.innovation.ca.gov,"https://hub.innovation.ca.gov/","Office of Data and Innovation",200,true,true,true,false,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,false,true
+delta.ca.gov,"https://delta.ca.gov/","Delta Protection Commission",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+deltacouncil.ca.gov,"https://deltacouncil.ca.gov/","Delta Stewardship Council",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+dhbc.ca.gov,"https://dhbc.ca.gov/","Dental Hygiene Board of California",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+scdd.ca.gov,"https://scdd.ca.gov/","State Council on Developmental Disabilities",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+dds.ca.gov,"http://dds.ca.gov/","Department of Developmental Services",403,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+earthquakeauthority.com,"https://www.earthquakeauthority.com/","California Earthquake Authority",200,true,true,true,false,true,true,false,true,false,true,false,false,false,false,false,false,false,false,false,false,false
+cde.ca.gov,"https://www.cde.ca.gov/","California Department of Education",200,true,true,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+emsa.ca.gov,"https://emsa.ca.gov/","Emergency Medical Services Authority",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+caloes.ca.gov,"https://www.caloes.ca.gov/","Governor's Office of Emergency Services",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+edd.ca.gov,"https://edd.ca.gov/","Employment Development Department",200,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+etp.ca.gov,"https://etp.ca.gov/","Employment Training Panel",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+energy.ca.gov,"https://www.energy.ca.gov/","California Energy Commission",200,true,true,false,false,true,true,false,true,false,true,false,true,true,false,false,false,true,true,true,false,true
+energysafety.ca.gov,"https://energysafety.ca.gov/","Office of Energy Infrastructure Safety",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+bpelsg.ca.gov,"https://bpelsg.ca.gov/","Board of Professional Engineers, Land Surveyors, and Geologists",200,true,true,true,false,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false
+oehha.ca.gov,"http://oehha.ca.gov/","Office of Environmental Health Hazard Assessment",200,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+calepa.ca.gov,"https://calepa.ca.gov/","Environmental Protection Agency",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+boe.ca.gov,"https://boe.ca.gov/","Board of Equalization",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+calexpostatefair.com,"https://calexpostatefair.com/","California Exposition and State Fair",200,true,true,false,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,false,false,false
+fppc.ca.gov,"https://fppc.ca.gov/","Fair Political Practices Commission",200,true,true,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+fiscal.ca.gov,"https://fiscal.ca.gov/","Department of FI$Cal",200,true,false,false,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+film.ca.gov,"https://film.ca.gov/","California Film Commission",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+dof.ca.gov,"https://dof.ca.gov/","Department of Finance",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+dfpi.ca.gov,"https://dfpi.ca.gov/","Department of Financial Protection and Innovation",200,true,true,true,false,true,true,true,true,true,true,true,true,true,false,false,false,false,true,true,true,true
+cfcc.ca.gov,"https://cfcc.ca.gov/","California Financing Coordinating Committee",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+ccfc.ca.gov,"https://ccfc.ca.gov/","First 5 California",200,true,true,true,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+fgc.ca.gov,"https://fgc.ca.gov/","Fish and Game Commission",200,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+wildlife.ca.gov,"https://wildlife.ca.gov/","Department of Fish and Wildlife",200,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cdfa.ca.gov,"https://www.cdfa.ca.gov/","Department of Food and Agriculture",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+bof.fire.ca.gov,"https://bof.fire.ca.gov/","Board of Forestry and Fire Protection",200,true,true,true,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+fire.ca.gov,"https://www.fire.ca.gov/","California Department of Forestry and Fire Protection",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+ftb.ca.gov,"https://www.ftb.ca.gov/","Franchise Tax Board",200,true,true,true,false,true,true,false,false,false,false,false,false,true,true,true,false,false,false,false,false,false
+cgcc.ca.gov,"http://cgcc.ca.gov/","California Gambling Control Commission",404,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+dgs.ca.gov,"undefined","Department of General Services",500,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+govops.ca.gov,"https://www.govops.ca.gov/","Government Operations Agency",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+gov.ca.gov,"https://www.gov.ca.gov/","Office of the Governor",200,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true
+tribalgovtaffairs.ca.gov,"undefined","Governor's Office of the Tribal Advisor",500,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+chhs.ca.gov,"undefined","Health and Human Services Agency",500,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+hbex.coveredca.com,"https://hbex.coveredca.com/","California Health Benefit Exchange",200,true,false,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+hcai.ca.gov,"https://hcai.ca.gov/","Department of Health Care Access and Information",200,true,true,false,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,false,false,false
+dhcs.ca.gov,"https://www.dhcs.ca.gov/","Department of Health Care Services",200,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+hsr.ca.gov,"https://hsr.ca.gov/","High-Speed Rail Authority",200,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+chp.ca.gov,"https://www.chp.ca.gov/","California Highway Patrol",200,true,false,false,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+chrb.ca.gov,"https://chrb.ca.gov//","California Horse Racing Board",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+bhgs.dca.ca.gov,"https://bhgs.dca.ca.gov/","Bureau of Household Goods and Services",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+hcd.ca.gov,"https://www.hcd.ca.gov/","Department of Housing and Community Development",200,true,false,false,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+calhfa.ca.gov,"https://www.calhfa.ca.gov/","Housing Finance Agency",200,true,true,true,false,true,false,false,false,true,true,true,true,true,false,false,false,true,true,true,true,true
+calsilc.ca.gov,"https://calsilc.ca.gov/","California State Independent Living Council",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+dir.ca.gov,"http://dir.ca.gov/","Department of Industrial Relations",200,true,false,false,false,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false
+ibank.ca.gov,"https://ibank.ca.gov/","Infrastructure and Economic Development Bank (I-Bank)",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+oig.ca.gov,"https://www.oig.ca.gov/","Office of the Inspector General",200,true,false,false,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true,false,false,false
+insurance.ca.gov,"https://www.insurance.ca.gov/","Department of Insurance",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cjp.ca.gov,"https://cjp.ca.gov/","Commission on Judicial Performance",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+oag.ca.gov,"https://oag.ca.gov/","Department of Justice",200,true,false,false,false,true,true,false,true,true,true,false,true,true,false,false,false,false,true,true,false,true
+labor.ca.gov,"https://www.labor.ca.gov/","Labor and Workforce Development Agency",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+slc.ca.gov,"https://slc.ca.gov/","California State Lands Commission",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+latc.ca.gov,"https://latc.ca.gov/","Landscape Architects Technical Committee ",200,true,true,false,false,true,false,true,true,true,false,false,false,false,false,false,false,true,true,true,true,true
+clrc.ca.gov,"http://clrc.ca.gov/","California Law Revision Commission",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+lao.ca.gov,"https://lao.ca.gov/","Legislative Analyst's Office",200,true,true,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+legislature.ca.gov,"undefined","California State Legislature",500,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+library.ca.gov,"https://library.ca.gov/","California State Library",403,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+ltg.ca.gov,"https://ltg.ca.gov/","Office of Lieutenant Governor",200,true,true,true,true,true,true,true,true,true,true,false,true,false,false,false,false,false,true,true,false,false
+lhc.ca.gov,"https://lhc.ca.gov/","Little Hoover Commission",403,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+calottery.com,"https://www.calottery.com/","California Lottery",200,true,true,false,false,true,true,false,false,false,true,false,true,false,false,false,false,false,false,false,false,false
+dmhc.ca.gov,"https://dmhc.ca.gov/","Department of Managed Health Care",200,true,true,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+mbc.ca.gov,"https://mbc.ca.gov/","Medical Board of California ",200,true,true,false,false,true,false,false,false,true,true,true,true,true,false,false,false,false,false,false,false,false
+mhsoac.ca.gov,"https://mhsoac.ca.gov/","Mental Health Services Oversight and Accountability Commission",200,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,false
+calguard.ca.gov,"https://calguard.ca.gov/","California Military Department",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+dmv.ca.gov,"https://www.dmv.ca.gov/","Department of Motor Vehicles",200,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+nahc.ca.gov,"https://nahc.ca.gov/","Native American Heritage Commission",200,true,false,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+resources.ca.gov,"https://resources.ca.gov/","California Natural Resources Agency",200,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+naturopathic.ca.gov,"https://naturopathic.ca.gov/","Naturopathic Medicine Committee ",200,true,true,true,false,true,false,false,false,false,false,false,false,true,true,true,false,false,false,false,false,false
+nmvb.ca.gov,"https://nmvb.ca.gov/","New Motor Vehicle Board  ",200,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+bot.ca.gov,"https://bot.ca.gov/","California Board of Occupational Therapy",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+opc.ca.gov,"https://opc.ca.gov/","Ocean Protection Council",200,true,false,true,true,true,true,true,true,true,true,true,true,true,false,false,false,false,true,false,false,false
+ombc.ca.gov,"https://ombc.ca.gov/","Osteopathic Medical Board of California ",200,true,true,true,false,true,false,false,false,false,false,false,false,true,true,true,false,false,false,false,false,false
+parks.ca.gov,"undefined","Department of Parks and Recreation",500,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+opa.ca.gov,"undefined","Office of the Patient Advocate",500,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+post.ca.gov,"https://post.ca.gov/","Commission on Peace Officer Standards and Training",200,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+spb.ca.gov,"https://spb.ca.gov/","State Personnel Board",200,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cdpr.ca.gov,"https://www.cdpr.ca.gov/","Department of Pesticide Regulation",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+pharmacy.ca.gov,"https://pharmacy.ca.gov/","California State Board of Pharmacy",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+ptbc.ca.gov,"https://ptbc.ca.gov/","Physical Therapy Board of California",200,true,true,true,false,true,false,false,false,false,false,false,false,true,true,true,false,false,false,false,false,false
+pab.ca.gov,"https://pab.ca.gov/","Physician Assistant Board ",200,true,true,true,false,true,false,false,false,false,false,false,false,true,true,true,false,false,false,false,false,false
+bopc.ca.gov,"https://bopc.ca.gov/","Board of Pilot Commissioners for the Bays of San Francisco, San Pablo, and Suisun",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+opr.ca.gov,"http://opr.ca.gov/","Governor's Office of Planning and Research",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+pmbc.ca.gov,"https://pmbc.ca.gov/","Podiatric Medical Board of California",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+calpia.ca.gov,"http://calpia.ca.gov/","Prison Industry Authority",404,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+bppe.ca.gov,"https://bppe.ca.gov/","Bureau for Private and Postsecondary Education",200,true,true,true,false,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false
+fiduciary.ca.gov,"https://fiduciary.ca.gov/","Professional Fiduciaries Bureau",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+psychology.ca.gov,"https://psychology.ca.gov/","Board of Psychology",200,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+calpers.ca.gov,"https://www.calpers.ca.gov/","California Public Employees Retirement System",200,true,true,false,false,true,false,false,true,true,true,true,true,true,false,false,false,false,false,false,false,false
+perb.ca.gov,"https://perb.ca.gov/","California Public Employment Relations Board",200,true,true,true,true,true,true,true,true,true,true,false,true,false,false,false,false,false,true,false,false,false
+cdph.ca.gov,"https://www.cdph.ca.gov/","California Department of Public Health",200,true,true,true,false,true,true,false,false,false,false,false,false,false,false,false,false,true,false,true,false,false
+cpuc.ca.gov,"undefined","California Public Utilities Commission",500,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+dre.ca.gov,"http://dre.ca.gov/","Department of Real Estate",200,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cirm.ca.gov,"https://www.cirm.ca.gov/","California Institute for Regenerative Medicine",200,true,false,false,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+rn.ca.gov,"https://rn.ca.gov/","California Board of Registered Nursing",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+dor.ca.gov,"https://dor.ca.gov/","Department of Rehabilitation",200,true,true,true,false,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false
+calrecycle.ca.gov,"https://calrecycle.ca.gov/","Department of Resources Recycling and Recovery",200,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true
+rcb.ca.gov,"https://rcb.ca.gov/","Respiratory Care Board of California ",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+deltaconservancy.ca.gov,"https://deltaconservancy.ca.gov/","Sacramento-San Joaquin Delta Conservancy",200,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+sdrc.ca.gov,"https://sdrc.ca.gov/","San Diego River Conservancy",200,true,false,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+bcdc.ca.gov,"https://bcdc.ca.gov/","San Francisco Bay Conservation and Development Commission",200,true,true,true,false,true,false,false,false,false,false,false,false,true,true,true,false,false,false,false,false,false
+rmc.ca.gov,"https://rmc.ca.gov/","San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",200,true,false,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+sjrc.ca.gov,"https://sjrc.ca.gov/","San Joaquin River Conservancy",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+smmc.ca.gov,"https://smmc.ca.gov/","Santa Monica Mountains Conservancy",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+saveourwater.com,"https://saveourwater.com/","Save Our Water",200,true,true,false,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true,false,false,false
+sos.ca.gov,"https://www.sos.ca.gov/","Secretary of State",200,true,false,false,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+bsis.ca.gov,"https://bsis.ca.gov/","Bureau of Security and Investigative Services",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+ssc.ca.gov,"https://ssc.ca.gov/","Seismic Safety Commission",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+senate.ca.gov,"https://www.senate.ca.gov/","California State Senate",200,true,false,false,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+sierranevada.ca.gov,"https://sierranevada.ca.gov/","Sierra Nevada Conservancy",200,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false,true,true,true,true
+cdss.ca.gov,"https://cdss.ca.gov/","Department of Social Services",200,true,false,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+speechandhearing.ca.gov,"https://speechandhearing.ca.gov/","Speech-Language Pathology and Audiology and Hearing Aid Dispensers Board ",200,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+osfm.fire.ca.gov,"https://osfm.fire.ca.gov/","Office of the State Fire Marshal",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+dsh.ca.gov,"https://dsh.ca.gov/","Department of State Hospitals",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+csm.ca.gov,"https://csm.ca.gov/","Commission on State Mandates",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+calstrs.com,"https://www.calstrs.com/","California State Teachers Retirement System",200,true,false,false,false,true,true,false,false,true,true,false,true,true,false,false,false,false,false,false,false,false
+waterboards.ca.gov,"https://www.waterboards.ca.gov/","State Water Resources Control Board",200,true,true,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+women.ca.gov,"https://women.ca.gov/","Commission on Status of Women and Girls",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+pestboard.ca.gov,"https://pestboard.ca.gov/","Structural Pest Control Board ",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+csac.ca.gov,"https://www.csac.ca.gov/","California Student Aid Commission",200,true,true,false,false,true,true,false,true,true,true,true,true,true,false,false,false,true,true,true,true,true
+osi.ca.gov,"https://osi.ca.gov/","Office of Systems Integration",200,true,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+tahoe.ca.gov,"https://tahoe.ca.gov/","California Tahoe Conservancy",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cdtfa.ca.gov,"https://cdtfa.ca.gov/","California Department of Tax and Fee Administration",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+ctc.ca.gov,"undefined","Commission on Teacher Credentialing",500,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cdt.ca.gov,"https://cdt.ca.gov/","California Department of Technology",200,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true
+dtsc.ca.gov,"http://dtsc.ca.gov/","Department of Toxic Substances Control",200,false,false,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+ots.ca.gov,"https://www.ots.ca.gov/","Office of Traffic Safety",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+calsta.ca.gov,"https://calsta.ca.gov/","California State Transportation Agency",200,true,true,true,false,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false
+catc.ca.gov,"https://catc.ca.gov/","Transportation Commission",200,true,true,true,false,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false
+dot.ca.gov,"https://dot.ca.gov/","Department of Transportation",200,true,true,true,false,true,false,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false
+treasurer.ca.gov,"https://www.treasurer.ca.gov/","State Treasurer's Office",200,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cuiab.ca.gov,"https://cuiab.ca.gov/","Unemployment Insurance Appeals Board",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+universityofcalifornia.edu,"https://www.universityofcalifornia.edu/","University of California",200,true,true,false,false,true,true,false,true,true,true,false,true,true,false,false,true,false,true,true,false,true
+calstate.edu,"https://www.calstate.edu/","California State University",200,true,false,false,false,true,true,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false
+calvet.ca.gov,"undefined","Department of Veterans Affairs",500,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+vmb.ca.gov,"https://vmb.ca.gov/","Veterinary Medical Board ",200,true,false,true,false,true,false,true,true,true,false,false,true,true,false,false,false,true,true,false,false,false
+victims.ca.gov,"https://victims.ca.gov/","California Victim Compensation Board",200,true,true,false,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,false,false,false
+visitcalifornia.com,"https://www.visitcalifornia.com/","Visit California",200,true,true,false,false,true,true,false,true,true,true,true,true,true,false,false,false,false,true,true,true,false
+bvnpt.ca.gov,"https://bvnpt.ca.gov/","Board of Vocational Nursing and Psychiatric Technicians",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+californiavolunteers.ca.gov,"https://www.californiavolunteers.ca.gov/","California Volunteers",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cwc.ca.gov,"https://cwc.ca.gov/","California Water Commission",200,true,true,true,false,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+water.ca.gov,"https://water.ca.gov/","Department of Water Resources",200,true,true,true,false,true,false,false,false,false,true,false,true,false,false,false,false,false,false,false,false,false
+wcb.ca.gov,"https://wcb.ca.gov/","Wildlife Conservation Board",200,true,true,false,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+cwdb.ca.gov,"https://cwdb.ca.gov/","California Workforce Development Board",200,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+ca.gov,"https://www.ca.gov/","State of California",200,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,false,false,false

@@ -1,0 +1,197 @@
+domain,agency,status,redirect,valid,sitemap,allowed
+abortion.ca.gov,"State of California",200,"https://abortion.ca.gov/robots.txt",true,"https://abortion.ca.gov/sitemap.xml</body></html>",true
+acupuncture.ca.gov,"California Acupuncture Board",200,"https://acupuncture.ca.gov/robots.txt",true,"null",true
+oal.ca.gov,"Office of Administrative Law",200,"http://oal.ca.gov/robots.txt",true,"https://oal.ca.gov/sitemap.xml",true
+ccoa.ca.gov,"California Commission on Aging",500,"null",false,"null",false
+aging.ca.gov,"Department of Aging",500,"null",false,"null",false
+alrb.ca.gov,"Agricultural Labor Relations Board",404,"http://alrb.ca.gov/robots.txt",false,"null",false
+ww2.arb.ca.gov,"Air Resources Board",200,"http://ww2.arb.ca.gov/robots.txt",true,"https://ww2.arb.ca.gov/sitemap.xml",true
+abcab.ca.gov,"Alcoholic Beverage Control Appeals Board",200,"http://abcab.ca.gov/robots.txt",true,"https://abcab.ca.gov/sitemap.xml",true
+abc.ca.gov,"Department of Alcoholic Beverage Control",200,"https://www.abc.ca.gov/robots.txt",true,"https://www.abc.ca.gov/sitemap.xml",true
+cab.ca.gov,"California Architects Board",200,"https://cab.ca.gov/robots.txt",true,"https://www.cab.ca.gov/sitemap.xml",true
+arts.ca.gov,"California Arts Council",200,"https://arts.ca.gov/robots.txt",true,"https://dev-cacgov.pantheonsite.io/sitemap_index.xml",true
+assembly.ca.gov,"California State Assembly",200,"https://www.assembly.ca.gov/robots.txt",true,"null",true
+bsa.ca.gov,"California State Auditor",200,"https://www.auditor.ca.gov/robots.txt",true,"http://www.auditor.ca.gov/sitemap_index.xml",true
+bar.ca.gov,"Bureau of Automotive Repair",200,"https://bar.ca.gov/robots.txt",true,"null",true
+bhc.ca.gov,"Baldwin Hills Conservancy",200,"https://bhc.ca.gov/robots.txt",true,"https://bhc.ca.gov/wp-sitemap.xml",true
+calbar.ca.gov,"State Bar of California",200,"https://www.calbar.ca.gov/robots.txt",true,"null",true
+barbercosmo.ca.gov,"Board of Barbering and Cosmetology",200,"https://barbercosmo.ca.gov/robots.txt",true,"null",true
+bbs.ca.gov,"Board of Behavioral Sciences",200,"https://bbs.ca.gov/robots.txt",true,"null",true
+biodiversity.ca.gov,"California Biodiversity Council",500,"null",false,"null",false
+brea.ca.gov,"Bureau of Real Estate Appraisers",200,"https://brea.ca.gov/robots.txt",true,"null",true
+business.ca.gov,"Governor's Office of Business and Economic Development",200,"https://business.ca.gov/robots.txt",true,"https://business.ca.gov/sitemap.xml",true
+bcsh.ca.gov,"California Business, Consumer Services, and Housing Agency",200,"https://bcsh.ca.gov/robots.txt",true,"null",true
+cppa.ca.gov,"California Privacy Protection Agency",200,"https://cppa.ca.gov/robots.txt",true,"null",true
+ccap.ca.gov,"Cannabis Control Appeals Panel",404,"https://ccap.ca.gov/robots.txt",false,"null",false
+cannabis.ca.gov,"Department of Cannabis Control",200,"https://cannabis.ca.gov/robots.txt",true,"https://cannabis.ca.gov/sitemap.xml",true
+cfb.ca.gov,"Cemetery and Funeral Bureau",200,"https://cfb.ca.gov/robots.txt",true,"null",true
+cvfpb.ca.gov,"Central Valley Flood Protection Board",200,"https://cvfpb.ca.gov/robots.txt",true,"https://cvfpb.ca.gov/wp-sitemap.xml",true
+childsupport.ca.gov,"Department of Child Support Services",200,"http://childsupport.ca.gov/robots.txt",true,"https://childsupport.ca.gov/sitemap.xml",true
+chiro.ca.gov,"Board of Chiropractic Examiners",200,"https://chiro.ca.gov/robots.txt",true,"null",true
+wedrawthelines.ca.gov,"Citizens Redistricting Commission",200,"http://wedrawthelines.ca.gov/robots.txt",true,"https://wedrawthelines.ca.gov/sitemap.xml",true
+calcivilrights.ca.gov,"Civil Rights Department",200,"http://calcivilrights.ca.gov/robots.txt",true,"https://calcivilrights.ca.gov/sitemap.xml",true
+cvmc.ca.gov,"Coachella Valley Mountains Conservancy",200,"https://cvmc.ca.gov/robots.txt",true,"https://cvmc.ca.gov/wp-sitemap.xml",true
+coastal.ca.gov,"California Coastal Commission",200,"https://coastal.ca.gov/robots.txt",true,"null",true
+scc.ca.gov,"State Coastal Conservancy",200,"http://scc.ca.gov/robots.txt",true,"https://scc.ca.gov/wp-sitemap.xml",true
+crb.ca.gov,"Colorado River Board of California",200,"https://crb.ca.gov/robots.txt",true,"https://crb.ca.gov/wp-sitemap.xml",true
+cccco.edu,"California Community Colleges",200,"https://www.cccco.edu/robots.txt",true,"http://www.cccco.edu/sitemap.xml",true
+csd.ca.gov,"Department of Community Services and Development",404,"https://csd.ca.gov/robots.txt",false,"null",false
+ccc.ca.gov,"California Conservation Corps",200,"https://ccc.ca.gov/robots.txt",true,"null",true
+conservation.ca.gov,"Department of Conservation",200,"https://www.conservation.ca.gov/robots.txt",true,"https://www.conservation.ca.gov:443/sitemap.xml",true
+dca.ca.gov,"Department of Consumer Affairs",200,"https://dca.ca.gov/robots.txt",true,"null",true
+cslb.ca.gov,"Contractors State License Board",404,"https://cslb.ca.gov/robots.txt",false,"null",false
+sco.ca.gov,"State Controller's Office",200,"https://sco.ca.gov/robots.txt",false,"null",false
+coolcalifornia.arb.ca.gov,"Cool California",200,"https://coolcalifornia.arb.ca.gov/robots.txt",true,"null",true
+cdcr.ca.gov,"California Department of Corrections and Rehabilitation",200,"https://www.cdcr.ca.gov/robots.txt",true,"https://www.cdcr.ca.gov/sitemap_index.xml",true
+counties.org,"California State Association of Counties",200,"https://www.counties.org/robots.txt",true,"null",true
+courtreportersboard.ca.gov,"Court Reporters Board of California ",200,"https://courtreportersboard.ca.gov/robots.txt",true,"null",true
+courts.ca.gov,"California Courts",200,"https://www.courts.ca.gov/robots.txt",false,"null",false
+innovation.ca.gov,"Office of Data and Innovation",404,"https://innovation.ca.gov/robots.txt",false,"null",false
+hub.innovation.ca.gov,"Office of Data and Innovation",200,"https://hub.innovation.ca.gov/robots.txt",true,"null",true
+delta.ca.gov,"Delta Protection Commission",200,"https://delta.ca.gov/robots.txt",true,"https://delta.ca.gov/wp-sitemap.xml",true
+deltacouncil.ca.gov,"Delta Stewardship Council",200,"https://deltacouncil.ca.gov/robots.txt",true,"null",true
+dhbc.ca.gov,"Dental Hygiene Board of California",404,"https://dhbc.ca.gov/robots.txt",false,"null",false
+scdd.ca.gov,"State Council on Developmental Disabilities",200,"http://scdd.ca.gov/robots.txt",true,"https://scdd.ca.gov/sitemap.xml",true
+dds.ca.gov,"Department of Developmental Services",403,"http://dds.ca.gov/robots.txt",false,"null",false
+earthquakeauthority.com,"California Earthquake Authority",200,"https://www.earthquakeauthority.com/robots.txt",true,"https://www.earthquakeauthority.com/sitemap.xml",true
+cde.ca.gov,"California Department of Education",200,"https://www.cde.ca.gov/robots.txt",true,"null",true
+emsa.ca.gov,"Emergency Medical Services Authority",200,"http://emsa.ca.gov/robots.txt",true,"https://emsa.ca.gov/sitemap.xml",true
+caloes.ca.gov,"Governor's Office of Emergency Services",200,"https://www.caloes.ca.gov/robots.txt",true,"https://www.caloes.ca.gov/wp-sitemap.xml",true
+edd.ca.gov,"Employment Development Department",404,"https://edd.ca.gov/robots.txt",false,"null",false
+etp.ca.gov,"Employment Training Panel",200,"http://etp.ca.gov/robots.txt",true,"https://etp.ca.gov/sitemap.xml",true
+energy.ca.gov,"California Energy Commission",200,"https://www.energy.ca.gov/",false,"null",false
+energysafety.ca.gov,"Office of Energy Infrastructure Safety",200,"https://energysafety.ca.gov/robots.txt",true,"https://energysafety.ca.gov/wp-sitemap.xml",true
+bpelsg.ca.gov,"Board of Professional Engineers, Land Surveyors, and Geologists",200,"https://bpelsg.ca.gov/robots.txt",true,"null",true
+oehha.ca.gov,"Office of Environmental Health Hazard Assessment",200,"https://oehha.ca.gov/robots.txt",true,"null",true
+calepa.ca.gov,"Environmental Protection Agency",200,"http://calepa.ca.gov/robots.txt",true,"https://calepa.ca.gov/sitemap.xml",true
+boe.ca.gov,"Board of Equalization",404,"https://boe.ca.gov/robots.txt",false,"null",false
+calexpostatefair.com,"California Exposition and State Fair",200,"https://calexpostatefair.com/robots.txt",true,"https://calexpostatefair.com/sitemap_index.xml",true
+fppc.ca.gov,"Fair Political Practices Commission",200,"https://fppc.ca.gov/robots.txt",false,"null",false
+fiscal.ca.gov,"Department of FI$Cal",200,"https://fiscal.ca.gov/robots.txt",true,"https://fiscal.ca.gov/wp-sitemap.xml",true
+film.ca.gov,"California Film Commission",200,"https://film.ca.gov/robots.txt",true,"null",true
+dof.ca.gov,"Department of Finance",200,"http://dof.ca.gov/robots.txt",true,"https://dof.ca.gov/sitemap.xml",true
+dfpi.ca.gov,"Department of Financial Protection and Innovation",200,"http://dfpi.ca.gov/robots.txt",true,"https://dfpi.ca.gov/sitemap.xml",true
+cfcc.ca.gov,"California Financing Coordinating Committee",200,"https://cfcc.ca.gov/robots.txt",true,"null",true
+ccfc.ca.gov,"First 5 California",200,"https://ccfc.ca.gov/robots.txt",true,"null",true
+fgc.ca.gov,"Fish and Game Commission",200,"https://fgc.ca.gov/robots.txt",true,"null",true
+wildlife.ca.gov,"Department of Fish and Wildlife",404,"https://wildlife.ca.gov/robots.txt",false,"null",false
+cdfa.ca.gov,"Department of Food and Agriculture",200,"https://www.cdfa.ca.gov/robots.txt",false,"null",false
+bof.fire.ca.gov,"Board of Forestry and Fire Protection",200,"https://bof.fire.ca.gov/robots.txt",true,"https://bof.fire.ca.gov/sitemap.xml",true
+fire.ca.gov,"California Department of Forestry and Fire Protection",200,"https://www.fire.ca.gov/robots.txt",true,"https://www.fire.ca.gov/sitemaps/sitemap.xml",true
+ftb.ca.gov,"Franchise Tax Board",200,"https://www.ftb.ca.gov/robots.txt",true,"null",true
+cgcc.ca.gov,"California Gambling Control Commission",404,"http://cgcc.ca.gov/robots.txt",false,"null",false
+dgs.ca.gov,"Department of General Services",500,"null",false,"null",false
+govops.ca.gov,"Government Operations Agency",200,"https://www.govops.ca.gov/",false,"null",false
+gov.ca.gov,"Office of the Governor",200,"https://www.gov.ca.gov/",false,"null",false
+tribalgovtaffairs.ca.gov,"Governor's Office of the Tribal Advisor",500,"null",false,"null",false
+chhs.ca.gov,"Health and Human Services Agency",500,"null",false,"null",false
+hbex.coveredca.com,"California Health Benefit Exchange",404,"https://hbex.coveredca.com/robots.txt",false,"null",false
+hcai.ca.gov,"Department of Health Care Access and Information",200,"https://hcai.ca.gov/robots.txt",true,"null",true
+dhcs.ca.gov,"Department of Health Care Services",404,"http://dhcs.ca.gov/robots.txt",false,"null",false
+hsr.ca.gov,"High-Speed Rail Authority",200,"https://hsr.ca.gov/robots.txt",true,"https://hsr.ca.gov/sitemap.xml",true
+chp.ca.gov,"California Highway Patrol",200,"https://www.chp.ca.gov/",false,"null",false
+chrb.ca.gov,"California Horse Racing Board",200,"https://chrb.ca.gov//robots.txt",true,"null",false
+bhgs.dca.ca.gov,"Bureau of Household Goods and Services",200,"https://bhgs.dca.ca.gov/robots.txt",true,"null",true
+hcd.ca.gov,"Department of Housing and Community Development",200,"https://www.hcd.ca.gov/robots.txt",true,"null",true
+calhfa.ca.gov,"Housing Finance Agency",200,"https://www.calhfa.ca.gov/robots.txt",true,"https://www.calhfa.ca.gov/sitemap.xml",true
+calsilc.ca.gov,"California State Independent Living Council",200,"http://calsilc.ca.gov/robots.txt",true,"https://calsilc.ca.gov/sitemap.xml",true
+dir.ca.gov,"Department of Industrial Relations",200,"http://dir.ca.gov/robots.txt",true,"null",true
+ibank.ca.gov,"Infrastructure and Economic Development Bank (I-Bank)",200,"https://ibank.ca.gov/robots.txt",true,"null",true
+oig.ca.gov,"Office of the Inspector General",200,"https://www.oig.ca.gov/robots.txt",true,"https://www.oig.ca.gov/sitemap_index.xml",true
+insurance.ca.gov,"Department of Insurance",200,"https://www.insurance.ca.gov/robots.txt",true,"null",true
+cjp.ca.gov,"Commission on Judicial Performance",200,"http://cjp.ca.gov/robots.txt",true,"https://cjp.ca.gov/sitemap.xml",true
+oag.ca.gov,"Department of Justice",200,"https://oag.ca.gov/robots.txt",true,"null",true
+labor.ca.gov,"Labor and Workforce Development Agency",200,"https://www.labor.ca.gov/",false,"null",false
+slc.ca.gov,"California State Lands Commission",200,"https://slc.ca.gov/robots.txt",true,"https://slc.ca.gov/wp-sitemap.xml",true
+latc.ca.gov,"Landscape Architects Technical Committee ",404,"https://latc.ca.gov/robots.txt",false,"null",false
+clrc.ca.gov,"California Law Revision Commission",404,"http://clrc.ca.gov/robots.txt",false,"null",false
+lao.ca.gov,"Legislative Analyst's Office",200,"https://lao.ca.gov/robots.txt",true,"null",true
+legislature.ca.gov,"California State Legislature",500,"null",false,"null",false
+library.ca.gov,"California State Library",403,"https://library.ca.gov/robots.txt",false,"null",false
+ltg.ca.gov,"Office of Lieutenant Governor",200,"http://ltg.ca.gov/robots.txt",true,"https://ltg.ca.gov/sitemap.xml",true
+lhc.ca.gov,"Little Hoover Commission",403,"https://lhc.ca.gov/robots.txt",false,"null",false
+calottery.com,"California Lottery",200,"https://www.calottery.com/robots.txt",true,"https://www.calottery.com/sitemap.xml",true
+dmhc.ca.gov,"Department of Managed Health Care",404,"https://dmhc.ca.gov/robots.txt",false,"null",false
+mbc.ca.gov,"Medical Board of California ",200,"https://mbc.ca.gov/robots.txt",true,"https://www.mbc.ca.gov/sitemap.xml",true
+mhsoac.ca.gov,"Mental Health Services Oversight and Accountability Commission",200,"https://mhsoac.ca.gov/robots.txt",true,"https://mhsoac.ca.gov/wp-sitemap.xml",true
+calguard.ca.gov,"California Military Department",200,"http://calguard.ca.gov/robots.txt",true,"https://calguard.ca.gov/sitemap.xml",true
+dmv.ca.gov,"Department of Motor Vehicles",200,"https://www.dmv.ca.gov/robots.txt",false,"null",false
+nahc.ca.gov,"Native American Heritage Commission",200,"https://nahc.ca.gov/robots.txt",true,"https://nahc.ca.gov/wp-sitemap.xml",true
+resources.ca.gov,"California Natural Resources Agency",404,"https://resources.ca.gov/robots.txt",false,"null",false
+naturopathic.ca.gov,"Naturopathic Medicine Committee ",200,"https://naturopathic.ca.gov/robots.txt",true,"null",true
+nmvb.ca.gov,"New Motor Vehicle Board  ",200,"https://nmvb.ca.gov/robots.txt",true,"https://www.nmvb.ca.gov/sitemap_index.xml",true
+bot.ca.gov,"California Board of Occupational Therapy",200,"https://bot.ca.gov/robots.txt",true,"null",true
+opc.ca.gov,"Ocean Protection Council",200,"https://opc.ca.gov/robots.txt",true,"https://opc.ca.gov/sitemap_index.xml",true
+ombc.ca.gov,"Osteopathic Medical Board of California ",200,"https://ombc.ca.gov/robots.txt",true,"null",true
+parks.ca.gov,"Department of Parks and Recreation",500,"null",false,"null",false
+opa.ca.gov,"Office of the Patient Advocate",500,"null",false,"null",false
+post.ca.gov,"Commission on Peace Officer Standards and Training",200,"https://post.ca.gov/robots.txt",true,"null",true
+spb.ca.gov,"State Personnel Board",200,"https://spb.ca.gov/robots.txt",true,"null",true
+cdpr.ca.gov,"Department of Pesticide Regulation",200,"https://www.cdpr.ca.gov/robots.txt",true,"null",true
+pharmacy.ca.gov,"California State Board of Pharmacy",200,"https://pharmacy.ca.gov/robots.txt",true,"null",true
+ptbc.ca.gov,"Physical Therapy Board of California",200,"https://ptbc.ca.gov/robots.txt",true,"null",true
+pab.ca.gov,"Physician Assistant Board ",200,"https://pab.ca.gov/robots.txt",true,"https://template.webstandards.ca.gov/sitemap.xml",true
+bopc.ca.gov,"Board of Pilot Commissioners for the Bays of San Francisco, San Pablo, and Suisun",200,"http://bopc.ca.gov/robots.txt",true,"https://bopc.ca.gov/sitemap.xml",true
+opr.ca.gov,"Governor's Office of Planning and Research",200,"http://opr.ca.gov/robots.txt",true,"http://opr.ca.gov/sitemap.xml",true
+pmbc.ca.gov,"Podiatric Medical Board of California",200,"https://pmbc.ca.gov/robots.txt",true,"null",true
+calpia.ca.gov,"Prison Industry Authority",404,"http://calpia.ca.gov/robots.txt",false,"null",false
+bppe.ca.gov,"Bureau for Private and Postsecondary Education",200,"https://bppe.ca.gov/robots.txt",true,"null",true
+fiduciary.ca.gov,"Professional Fiduciaries Bureau",200,"https://fiduciary.ca.gov/robots.txt",true,"null",true
+psychology.ca.gov,"Board of Psychology",200,"https://psychology.ca.gov/robots.txt",true,"null",true
+calpers.ca.gov,"California Public Employees Retirement System",200,"https://www.calpers.ca.gov/robots.txt",true,"null",true
+perb.ca.gov,"California Public Employment Relations Board",200,"https://perb.ca.gov/robots.txt",true,"https://perb.ca.gov/sitemap_index.xml",true
+cdph.ca.gov,"California Department of Public Health",200,"https://www.cdph.ca.gov/robots.txt",true,"https://www.cdph.ca.gov:443/sitemap.xml",true
+cpuc.ca.gov,"California Public Utilities Commission",500,"null",false,"null",false
+dre.ca.gov,"Department of Real Estate",200,"http://dre.ca.gov/robots.txt",true,"null",true
+cirm.ca.gov,"California Institute for Regenerative Medicine",200,"https://www.cirm.ca.gov/robots.txt",true,"https://www.cirm.ca.gov/wp-sitemap.xml",true
+rn.ca.gov,"California Board of Registered Nursing",200,"https://rn.ca.gov/robots.txt",true,"null",true
+dor.ca.gov,"Department of Rehabilitation",404,"https://dor.ca.gov/robots.txt",false,"null",false
+calrecycle.ca.gov,"Department of Resources Recycling and Recovery",200,"http://calrecycle.ca.gov/robots.txt",true,"https://calrecycle.ca.gov/sitemap.xml",true
+rcb.ca.gov,"Respiratory Care Board of California ",200,"https://rcb.ca.gov/robots.txt",true,"null",true
+deltaconservancy.ca.gov,"Sacramento-San Joaquin Delta Conservancy",200,"https://deltaconservancy.ca.gov/robots.txt",true,"https://deltaconservancy.ca.gov/wp-sitemap.xml",true
+sdrc.ca.gov,"San Diego River Conservancy",200,"https://sdrc.ca.gov/robots.txt",true,"https://sdrc.ca.gov/wp-sitemap.xml",true
+bcdc.ca.gov,"San Francisco Bay Conservation and Development Commission",200,"https://bcdc.ca.gov/robots.txt",true,"null",false
+rmc.ca.gov,"San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",200,"https://rmc.ca.gov/robots.txt",true,"https://rmc.ca.gov/wp-sitemap.xml",true
+sjrc.ca.gov,"San Joaquin River Conservancy",200,"https://sjrc.ca.gov/robots.txt",true,"https://sjrc.ca.gov/wp-sitemap.xml",true
+smmc.ca.gov,"Santa Monica Mountains Conservancy",200,"http://smmc.ca.gov/robots.txt",true,"null",true
+saveourwater.com,"Save Our Water",200,"http://saveourwater.com/robots.txt",true,"null",true
+sos.ca.gov,"Secretary of State",404,"https://www.sos.ca.gov/robots.txt",false,"null",false
+bsis.ca.gov,"Bureau of Security and Investigative Services",200,"https://bsis.ca.gov/robots.txt",true,"null",true
+ssc.ca.gov,"Seismic Safety Commission",200,"http://ssc.ca.gov/robots.txt",true,"https://ssc.ca.gov/wp-sitemap.xml",true
+senate.ca.gov,"California State Senate",200,"https://www.senate.ca.gov/robots.txt",true,"null",true
+sierranevada.ca.gov,"Sierra Nevada Conservancy",200,"http://sierranevada.ca.gov/robots.txt",true,"https://sierranevada.ca.gov/sitemap.xml",true
+cdss.ca.gov,"Department of Social Services",200,"https://cdss.ca.gov/robots.txt",true,"null",true
+speechandhearing.ca.gov,"Speech-Language Pathology and Audiology and Hearing Aid Dispensers Board ",200,"https://speechandhearing.ca.gov/robots.txt",true,"null",true
+osfm.fire.ca.gov,"Office of the State Fire Marshal",200,"https://osfm.fire.ca.gov/robots.txt",true,"https://www.fire.ca.gov/sitemaps/sitemap.xml",true
+dsh.ca.gov,"Department of State Hospitals",200,"https://dsh.ca.gov/robots.txt",true,"https://www.dsh.ca.gov/sitemap.xml",true
+csm.ca.gov,"Commission on State Mandates",200,"https://www.csm.ca.gov/error.shtml",false,"null",false
+calstrs.com,"California State Teachers Retirement System",200,"https://www.calstrs.com/robots.txt",true,"https://www.calstrs.com/sitemap.xml",true
+waterboards.ca.gov,"State Water Resources Control Board",200,"https://www.waterboards.ca.gov/robots.txt",true,"null",true
+women.ca.gov,"Commission on Status of Women and Girls",200,"http://women.ca.gov/robots.txt",true,"https://women.ca.gov/sitemap.xml",true
+pestboard.ca.gov,"Structural Pest Control Board ",200,"https://pestboard.ca.gov/robots.txt",true,"null",true
+csac.ca.gov,"California Student Aid Commission",200,"https://www.csac.ca.gov/robots.txt",true,"https://www.csac.ca.gov/sitemap.xml",true
+osi.ca.gov,"Office of Systems Integration",200,"https://osi.ca.gov/robots.txt",true,"null",true
+tahoe.ca.gov,"California Tahoe Conservancy",200,"http://tahoe.ca.gov/robots.txt",true,"https://tahoe.ca.gov/sitemap.xml",true
+cdtfa.ca.gov,"California Department of Tax and Fee Administration",200,"https://cdtfa.ca.gov/robots.txt",true,"null",true
+ctc.ca.gov,"Commission on Teacher Credentialing",500,"null",false,"null",false
+cdt.ca.gov,"California Department of Technology",200,"http://cdt.ca.gov/robots.txt",true,"https://cdt.ca.gov/sitemap.xml",true
+dtsc.ca.gov,"Department of Toxic Substances Control",200,"http://dtsc.ca.gov/robots.txt",true,"https://dtsc.ca.gov/sitemap.xml",true
+ots.ca.gov,"Office of Traffic Safety",200,"https://www.ots.ca.gov/",false,"null",false
+calsta.ca.gov,"California State Transportation Agency",200,"https://calsta.ca.gov/robots.txt",true,"https://dot.ca.gov/caltrans-sitemap.xml",true
+catc.ca.gov,"Transportation Commission",200,"https://catc.ca.gov/robots.txt",true,"https://dot.ca.gov/caltrans-sitemap.xml",true
+dot.ca.gov,"Department of Transportation",200,"https://dot.ca.gov/robots.txt",true,"https://dot.ca.gov/caltrans-sitemap.xml",true
+treasurer.ca.gov,"State Treasurer's Office",200,"https://www.treasurer.ca.gov/robots.txt",true,"http://www.treasurer.ca.gov/sitemap.xml",true
+cuiab.ca.gov,"Unemployment Insurance Appeals Board",200,"http://cuiab.ca.gov/robots.txt",true,"https://cuiab.ca.gov/sitemap.xml",true
+universityofcalifornia.edu,"University of California",200,"https://universityofcalifornia.edu/robots.txt",true,"null",true
+calstate.edu,"California State University",200,"https://www.calstate.edu/robots.txt",true,"https://www.calstate.edu:443/sitemap.xml",true
+calvet.ca.gov,"Department of Veterans Affairs",500,"null",false,"null",false
+vmb.ca.gov,"Veterinary Medical Board ",200,"https://vmb.ca.gov/robots.txt",true,"null",true
+victims.ca.gov,"California Victim Compensation Board",200,"https://victims.ca.gov/robots.txt",true,"https://victims.ca.gov/sitemap_index.xml",true
+visitcalifornia.com,"Visit California",200,"https://www.visitcalifornia.com/robots.txt",true,"https://www.visitcalifornia.com/sitemap-d8.xml",true
+bvnpt.ca.gov,"Board of Vocational Nursing and Psychiatric Technicians",200,"https://bvnpt.ca.gov/robots.txt",true,"null",true
+californiavolunteers.ca.gov,"California Volunteers",200,"http://www.californiavolunteers.ca.gov/robots.txt",true,"https://www.californiavolunteers.ca.gov/sitemap.xml",true
+cwc.ca.gov,"California Water Commission",404,"https://cwc.ca.gov/robots.txt",false,"null",false
+water.ca.gov,"Department of Water Resources",404,"https://water.ca.gov/robots.txt",false,"null",false
+wcb.ca.gov,"Wildlife Conservation Board",200,"https://wcb.ca.gov/robots.txt",true,"null",true
+cwdb.ca.gov,"California Workforce Development Board",200,"http://cwdb.ca.gov/robots.txt",true,"https://cwdb.ca.gov/sitemap.xml",true
+ca.gov,"State of California",200,"https://www.ca.gov/robots.txt",true,"https://www.ca.gov/sitemap.xml",true
