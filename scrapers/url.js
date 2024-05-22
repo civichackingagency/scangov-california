@@ -3,7 +3,7 @@ import fetch from 'node-fetch';
 import { scrape, options, domains } from './scrape.js';
 import { exit } from 'process';
 
-const CHECK_WWW = true;
+const CHECK_WWW = false;
 
 const outcomes = [];
 const historyData = existsSync('data/url.json') ? JSON.parse(readFileSync('data/url.json', 'utf8')) : [];
