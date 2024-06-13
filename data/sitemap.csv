@@ -1,197 +1,197 @@
 domain,agency,status,redirect,xml,items,pdfs
 abortion.ca.gov,"State of California",404,"https://abortion.ca.gov/sitemap.xml%3C/body%3E%3C/html%3E",false,0,0
-acupuncture.ca.gov,"California Acupuncture Board",200,"https://acupuncture.ca.gov/sitemap.xml",true,1202,1073
-oal.ca.gov,"Office of Administrative Law",200,"https://oal.ca.gov/sitemap.xml",true,0,0
-ccoa.ca.gov,"California Commission on Aging",500,"null",false,0,0
-aging.ca.gov,"Department of Aging",500,"null",false,0,0
-alrb.ca.gov,"Agricultural Labor Relations Board",200,"http://www.alrb.ca.gov/sitemap.xml",true,0,0
 ww2.arb.ca.gov,"Air Resources Board",200,"https://ww2.arb.ca.gov/sitemap.xml",true,0,0
-abcab.ca.gov,"Alcoholic Beverage Control Appeals Board",200,"https://abcab.ca.gov/sitemap.xml",true,0,0
-abc.ca.gov,"Department of Alcoholic Beverage Control",200,"https://www.abc.ca.gov/sitemap.xml",true,0,0
+oal.ca.gov,"Office of Administrative Law",200,"https://oal.ca.gov/sitemap.xml",true,0,0
+ca.gov,"State of California",200,"https://www.ca.gov/sitemap.xml",true,407,1
 cab.ca.gov,"California Architects Board",404,"https://www.cab.ca.gov/sitemap.xml",false,0,0
+abcab.ca.gov,"Alcoholic Beverage Control Appeals Board",200,"https://abcab.ca.gov/sitemap.xml",true,0,0
+acupuncture.ca.gov,"California Acupuncture Board",200,"https://acupuncture.ca.gov/sitemap.xml",true,1202,1073
+alrb.ca.gov,"Agricultural Labor Relations Board",200,"http://www.alrb.ca.gov/sitemap.xml",true,0,0
 arts.ca.gov,"California Arts Council",200,"https://dev-cacgov.pantheonsite.io/sitemap_index.xml",true,0,0
 assembly.ca.gov,"California State Assembly",200,"https://www.assembly.ca.gov/sitemap.xml",true,119,0
+abc.ca.gov,"Department of Alcoholic Beverage Control",200,"https://www.abc.ca.gov/sitemap.xml",true,0,0
 bsa.ca.gov,"California State Auditor",200,"https://www.auditor.ca.gov/sitemap_index.xml",true,0,0
-bar.ca.gov,"Bureau of Automotive Repair",500,"null",false,0,0
+bar.ca.gov,"Bureau of Automotive Repair",200,"https://bar.ca.gov/sitemap.xml",true,892,433
+biodiversity.ca.gov,"California Biodiversity Council",500,"null",false,0,0
 bhc.ca.gov,"Baldwin Hills Conservancy",200,"https://bhc.ca.gov/wp-sitemap.xml",true,0,0
-calbar.ca.gov,"State Bar of California",200,"https://www.calbar.ca.gov/404",false,0,1
 barbercosmo.ca.gov,"Board of Barbering and Cosmetology",200,"https://barbercosmo.ca.gov/sitemap.xml",true,1220,1142
 bbs.ca.gov,"Board of Behavioral Sciences",200,"https://bbs.ca.gov/sitemap.xml",true,468,424
-biodiversity.ca.gov,"California Biodiversity Council",500,"null",false,0,0
+calbar.ca.gov,"State Bar of California",200,"https://www.calbar.ca.gov/404",false,0,1
 brea.ca.gov,"Bureau of Real Estate Appraisers",404,"https://brea.ca.gov/sitemap.xml",false,0,0
+cannabis.ca.gov,"Department of Cannabis Control",200,"https://cannabis.ca.gov/sitemap.xml",true,536,0
+cppa.ca.gov,"California Privacy Protection Agency",200,"https://cppa.ca.gov/sitemap.xml",true,7,0
 business.ca.gov,"Governor's Office of Business and Economic Development",404,"https://business.ca.gov/sitemap.xml",false,0,0
 bcsh.ca.gov,"California Business, Consumer Services, and Housing Agency",200,"https://bcsh.ca.gov/sitemap.xml",true,633,582
-cppa.ca.gov,"California Privacy Protection Agency",200,"https://cppa.ca.gov/sitemap.xml",true,7,0
 ccap.ca.gov,"Cannabis Control Appeals Panel",200,"https://ccap.ca.gov/sitemap.xml",true,154,139
-cannabis.ca.gov,"Department of Cannabis Control",200,"https://cannabis.ca.gov/sitemap.xml",true,531,0
-cfb.ca.gov,"Cemetery and Funeral Bureau",200,"https://cfb.ca.gov/sitemap.xml",true,285,201
-cvfpb.ca.gov,"Central Valley Flood Protection Board",200,"https://cvfpb.ca.gov/wp-sitemap.xml",true,0,0
 childsupport.ca.gov,"Department of Child Support Services",200,"https://childsupport.ca.gov/sitemap.xml",true,41,0
-chiro.ca.gov,"Board of Chiropractic Examiners",200,"https://chiro.ca.gov/sitemap.xml",true,1098,1024
-wedrawthelines.ca.gov,"Citizens Redistricting Commission",200,"https://wedrawthelines.ca.gov/sitemap.xml",true,0,0
-calcivilrights.ca.gov,"Civil Rights Department",200,"https://calcivilrights.ca.gov/sitemap.xml",true,0,0
-cvmc.ca.gov,"Coachella Valley Mountains Conservancy",200,"https://cvmc.ca.gov/wp-sitemap.xml",true,0,0
-coastal.ca.gov,"California Coastal Commission",200,"https://coastal.ca.gov/sitemap.xml",false,0,28
+cfb.ca.gov,"Cemetery and Funeral Bureau",200,"https://cfb.ca.gov/sitemap.xml",true,285,201
+chiro.ca.gov,"Board of Chiropractic Examiners",200,"https://chiro.ca.gov/sitemap.xml",true,1100,1026
 scc.ca.gov,"State Coastal Conservancy",200,"https://scc.ca.gov/wp-sitemap.xml",true,0,0
-crb.ca.gov,"Colorado River Board of California",200,"https://crb.ca.gov/wp-sitemap.xml",true,0,0
-cccco.edu,"California Community Colleges",200,"https://www.cccco.edu/sitemap.xml",true,0,0
+coastal.ca.gov,"California Coastal Commission",200,"https://coastal.ca.gov/sitemap.xml",false,0,28
+calcivilrights.ca.gov,"Civil Rights Department",200,"https://calcivilrights.ca.gov/sitemap.xml",true,0,0
+wedrawthelines.ca.gov,"Citizens Redistricting Commission",200,"https://wedrawthelines.ca.gov/sitemap.xml",true,0,0
+cvfpb.ca.gov,"Central Valley Flood Protection Board",200,"https://cvfpb.ca.gov/wp-sitemap.xml",true,0,0
 csd.ca.gov,"Department of Community Services and Development",404,"https://csd.ca.gov/sitemap.xml",false,0,0
-ccc.ca.gov,"California Conservation Corps",404,"https://ccc.ca.gov/sitemap.xml",false,0,0
+cccco.edu,"California Community Colleges",200,"https://www.cccco.edu/sitemap.xml",true,0,0
+crb.ca.gov,"Colorado River Board of California",200,"https://crb.ca.gov/wp-sitemap.xml",true,0,0
+cvmc.ca.gov,"Coachella Valley Mountains Conservancy",200,"https://cvmc.ca.gov/wp-sitemap.xml",true,0,0
 conservation.ca.gov,"Department of Conservation",200,"https://www.conservation.ca.gov/sitemap.xml",true,0,0
-dca.ca.gov,"Department of Consumer Affairs",200,"https://dca.ca.gov/sitemap.xml",true,2850,2454
+ccc.ca.gov,"California Conservation Corps",404,"https://ccc.ca.gov/sitemap.xml",false,0,0
 cslb.ca.gov,"Contractors State License Board",404,"https://cslb.ca.gov/sitemap.xml",false,0,0
 sco.ca.gov,"State Controller's Office",200,"https://sco.ca.gov/sitemap.xml",false,0,0
+courtreportersboard.ca.gov,"Court Reporters Board of California ",200,"https://courtreportersboard.ca.gov/sitemap.xml",true,340,282
 coolcalifornia.arb.ca.gov,"Cool California",404,"https://coolcalifornia.arb.ca.gov/sitemap.xml",false,0,0
 cdcr.ca.gov,"California Department of Corrections and Rehabilitation",200,"https://www.cdcr.ca.gov/sitemap_index.xml",true,0,0
+dca.ca.gov,"Department of Consumer Affairs",200,"https://dca.ca.gov/sitemap.xml",true,2849,2453
 counties.org,"California State Association of Counties",404,"https://www.counties.org/sitemap.xml",false,0,0
-courtreportersboard.ca.gov,"Court Reporters Board of California ",200,"https://courtreportersboard.ca.gov/sitemap.xml",true,341,283
+innovation.ca.gov,"Office of Data and Innovation",200,"https://innovation.ca.gov/sitemap.xml",true,104,0
+hub.innovation.ca.gov,"Office of Data and Innovation",200,"https://hub.innovation.ca.gov/sitemap.xml",true,24,0
 courts.ca.gov,"California Courts",200,"https://www.courts.ca.gov/sitemap.xml",false,9484,1697
-innovation.ca.gov,"Office of Data and Innovation",200,"https://innovation.ca.gov/sitemap.xml",true,99,0
-hub.innovation.ca.gov,"Office of Data and Innovation",200,"https://hub.innovation.ca.gov/sitemap.xml",true,23,0
-delta.ca.gov,"Delta Protection Commission",200,"https://delta.ca.gov/wp-sitemap.xml",true,0,0
-deltacouncil.ca.gov,"Delta Stewardship Council",200,"https://deltacouncil.ca.gov/sitemap.xml",true,323,261
-dhbc.ca.gov,"Dental Hygiene Board of California",200,"https://dhbc.ca.gov/sitemap.xml",true,406,359
-scdd.ca.gov,"State Council on Developmental Disabilities",200,"https://scdd.ca.gov/sitemap.xml",true,0,0
+deltacouncil.ca.gov,"Delta Stewardship Council",200,"https://deltacouncil.ca.gov/sitemap.xml",true,2321,1999
 dds.ca.gov,"Department of Developmental Services",403,"http://dds.ca.gov/sitemap.xml",false,0,0
-earthquakeauthority.com,"California Earthquake Authority",200,"https://www.earthquakeauthority.com/sitemap.xml",true,157,0
-cde.ca.gov,"California Department of Education",404,"https://www.cde.ca.gov/sitemap.xml",false,0,0
+dhbc.ca.gov,"Dental Hygiene Board of California",200,"https://dhbc.ca.gov/sitemap.xml",true,406,359
+earthquakeauthority.com,"California Earthquake Authority",200,"https://www.earthquakeauthority.com/sitemap.xml",true,156,0
+scdd.ca.gov,"State Council on Developmental Disabilities",200,"https://scdd.ca.gov/sitemap.xml",true,0,0
+delta.ca.gov,"Delta Protection Commission",200,"https://delta.ca.gov/wp-sitemap.xml",true,0,0
+edd.ca.gov,"Employment Development Department",200,"https://edd.ca.gov/sitemap.xml",true,2221,0
 emsa.ca.gov,"Emergency Medical Services Authority",200,"https://emsa.ca.gov/sitemap.xml",true,0,0
-caloes.ca.gov,"Governor's Office of Emergency Services",200,"https://www.caloes.ca.gov/wp-sitemap.xml",true,0,0
-edd.ca.gov,"Employment Development Department",200,"https://edd.ca.gov/sitemap.xml",true,2202,0
 etp.ca.gov,"Employment Training Panel",200,"https://etp.ca.gov/sitemap.xml",true,0,0
-energy.ca.gov,"California Energy Commission",200,"https://www.energy.ca.gov/",false,0,0
 energysafety.ca.gov,"Office of Energy Infrastructure Safety",200,"https://energysafety.ca.gov/wp-sitemap.xml",true,0,0
 bpelsg.ca.gov,"Board of Professional Engineers, Land Surveyors, and Geologists",200,"https://bpelsg.ca.gov/sitemap.xml",true,182,0
+energy.ca.gov,"California Energy Commission",200,"https://www.energy.ca.gov/",false,0,0
 oehha.ca.gov,"Office of Environmental Health Hazard Assessment",200,"https://oehha.ca.gov/sitemap.xml",true,0,0
 calepa.ca.gov,"Environmental Protection Agency",200,"https://calepa.ca.gov/sitemap.xml",true,0,0
+fppc.ca.gov,"Fair Political Practices Commission",200,"https://fppc.ca.gov/content/fppc-v2/fppc-www/errors/404.html",false,0,0
 boe.ca.gov,"Board of Equalization",200,"https://boe.ca.gov/sitemap.xml",true,6057,5342
 calexpostatefair.com,"California Exposition and State Fair",200,"https://calexpostatefair.com/sitemap_index.xml",true,0,0
-fppc.ca.gov,"Fair Political Practices Commission",200,"https://fppc.ca.gov/content/fppc-v2/fppc-www/errors/404.html",false,0,0
-fiscal.ca.gov,"Department of FI$Cal",200,"https://fiscal.ca.gov/wp-sitemap.xml",true,0,0
-film.ca.gov,"California Film Commission",200,"https://film.ca.gov/wp-sitemap.xml",true,0,0
-dof.ca.gov,"Department of Finance",200,"https://dof.ca.gov/sitemap.xml",true,0,0
 dfpi.ca.gov,"Department of Financial Protection and Innovation",200,"https://dfpi.ca.gov/sitemap.xml",true,0,0
+film.ca.gov,"California Film Commission",200,"https://film.ca.gov/wp-sitemap.xml",true,0,0
+caloes.ca.gov,"Governor's Office of Emergency Services",200,"https://www.caloes.ca.gov/wp-sitemap.xml",true,0,0
 cfcc.ca.gov,"California Financing Coordinating Committee",200,"https://cfcc.ca.gov/wp-sitemap.xml",true,0,0
-ccfc.ca.gov,"First 5 California",200,"https://ccfc.ca.gov/sitemap.xml",true,35,0
-fgc.ca.gov,"Fish and Game Commission",404,"https://fgc.ca.gov/sitemap.xml",false,0,0
+dof.ca.gov,"Department of Finance",200,"https://dof.ca.gov/sitemap.xml",true,0,0
 wildlife.ca.gov,"Department of Fish and Wildlife",404,"https://wildlife.ca.gov/sitemap.xml",false,0,0
-cdfa.ca.gov,"Department of Food and Agriculture",200,"https://www.cdfa.ca.gov/sitemap.xml",true,2780,0
+fgc.ca.gov,"Fish and Game Commission",404,"https://fgc.ca.gov/sitemap.xml",false,0,0
+ccfc.ca.gov,"First 5 California",200,"https://ccfc.ca.gov/sitemap.xml",true,35,0
+cde.ca.gov,"California Department of Education",404,"https://www.cde.ca.gov/sitemap.xml",false,0,0
 bof.fire.ca.gov,"Board of Forestry and Fire Protection",200,"https://bof.fire.ca.gov/sitemap.xml",true,73,0
 fire.ca.gov,"California Department of Forestry and Fire Protection",200,"https://www.fire.ca.gov/sitemaps/sitemap.xml",true,149,0
+cdfa.ca.gov,"Department of Food and Agriculture",200,"https://www.cdfa.ca.gov/sitemap.xml",true,2780,0
 ftb.ca.gov,"Franchise Tax Board",200,"https://www.ftb.ca.gov/sitemap.xml",true,1432,0
 cgcc.ca.gov,"California Gambling Control Commission",404,"http://cgcc.ca.gov/sitemap.xml",false,0,0
-dgs.ca.gov,"Department of General Services",500,"null",false,0,0
+chhs.ca.gov,"Health and Human Services Agency",500,"null",false,0,0
+tribalgovtaffairs.ca.gov,"Governor's Office of the Tribal Advisor",500,"null",false,0,0
 govops.ca.gov,"Government Operations Agency",200,"https://www.govops.ca.gov/",false,0,0
 gov.ca.gov,"Office of the Governor",200,"https://www.gov.ca.gov/",false,0,1
-tribalgovtaffairs.ca.gov,"Governor's Office of the Tribal Advisor",500,"null",false,0,0
-chhs.ca.gov,"Health and Human Services Agency",500,"null",false,0,0
-hbex.coveredca.com,"California Health Benefit Exchange",200,"https://hbex.coveredca.com/sitemap.xml",true,59,0
-hcai.ca.gov,"Department of Health Care Access and Information",200,"https://hcai.ca.gov/sitemap_index.xml",true,0,0
+fiscal.ca.gov,"Department of FI$Cal",200,"https://fiscal.ca.gov/wp-sitemap.xml",true,0,0
 dhcs.ca.gov,"Department of Health Care Services",404,"http://dhcs.ca.gov/sitemap.xml",false,0,0
-hsr.ca.gov,"High-Speed Rail Authority",200,"https://hsr.ca.gov/sitemap.xml",true,757,0
-chp.ca.gov,"California Highway Patrol",200,"https://www.chp.ca.gov/",false,0,1
+hbex.coveredca.com,"California Health Benefit Exchange",200,"https://hbex.coveredca.com/sitemap.xml",true,59,0
 chrb.ca.gov,"California Horse Racing Board",200,"https://chrb.ca.gov//sitemap.xml",true,61,0
-bhgs.dca.ca.gov,"Bureau of Household Goods and Services",200,"https://bhgs.dca.ca.gov/sitemap.xml",true,306,264
 hcd.ca.gov,"Department of Housing and Community Development",200,"https://www.hcd.ca.gov/sitemap.xml",true,187,0
+bhgs.dca.ca.gov,"Bureau of Household Goods and Services",200,"https://bhgs.dca.ca.gov/sitemap.xml",true,306,264
+chp.ca.gov,"California Highway Patrol",200,"https://www.chp.ca.gov/",false,0,1
+hcai.ca.gov,"Department of Health Care Access and Information",200,"https://hcai.ca.gov/sitemap_index.xml",true,0,0
+dir.ca.gov,"Department of Industrial Relations",404,"http://dir.ca.gov/sitemap.xml",false,0,0
+hsr.ca.gov,"High-Speed Rail Authority",200,"https://hsr.ca.gov/sitemap.xml",true,764,0
 calhfa.ca.gov,"Housing Finance Agency",200,"https://www.calhfa.ca.gov/sitemap.xml",true,342,0
 calsilc.ca.gov,"California State Independent Living Council",200,"https://calsilc.ca.gov/sitemap.xml",true,0,0
-dir.ca.gov,"Department of Industrial Relations",404,"http://dir.ca.gov/sitemap.xml",false,0,0
-ibank.ca.gov,"Infrastructure and Economic Development Bank (I-Bank)",200,"https://ibank.ca.gov/wp-sitemap.xml",true,0,0
-oig.ca.gov,"Office of the Inspector General",200,"https://www.oig.ca.gov/sitemap_index.xml",true,0,0
 insurance.ca.gov,"Department of Insurance",200,"https://www.insurance.ca.gov/sitemap.xml",true,7362,2836
-cjp.ca.gov,"Commission on Judicial Performance",200,"https://cjp.ca.gov/sitemap.xml",true,0,0
 oag.ca.gov,"Department of Justice",404,"https://oag.ca.gov/sitemap.xml",false,0,0
-labor.ca.gov,"Labor and Workforce Development Agency",200,"https://www.labor.ca.gov/",false,0,3
-slc.ca.gov,"California State Lands Commission",404,"https://slc.ca.gov/wp-sitemap.xml",false,0,0
+ibank.ca.gov,"Infrastructure and Economic Development Bank (I-Bank)",200,"https://ibank.ca.gov/wp-sitemap.xml",true,0,0
+cjp.ca.gov,"Commission on Judicial Performance",200,"https://cjp.ca.gov/sitemap.xml",true,0,0
+oig.ca.gov,"Office of the Inspector General",200,"https://www.oig.ca.gov/sitemap_index.xml",true,0,0
+legislature.ca.gov,"California State Legislature",500,"null",false,0,0
 latc.ca.gov,"Landscape Architects Technical Committee ",200,"https://latc.ca.gov/sitemap.xml",true,628,452
 clrc.ca.gov,"California Law Revision Commission",404,"http://clrc.ca.gov/sitemap.xml",false,0,0
+labor.ca.gov,"Labor and Workforce Development Agency",200,"https://www.labor.ca.gov/",false,0,3
 lao.ca.gov,"Legislative Analyst's Office",200,"https://lao.ca.gov/Error/NotFound?aspxerrorpath=/sitemap.xml",false,0,0
-legislature.ca.gov,"California State Legislature",500,"null",false,0,0
 library.ca.gov,"California State Library",403,"https://library.ca.gov/sitemap.xml",false,0,0
-ltg.ca.gov,"Office of Lieutenant Governor",200,"https://ltg.ca.gov/sitemap.xml",true,156,0
 lhc.ca.gov,"Little Hoover Commission",403,"https://lhc.ca.gov/sitemap.xml",false,0,0
-calottery.com,"California Lottery",200,"https://www.calottery.com/sitemap.xml",true,185,0
-dmhc.ca.gov,"Department of Managed Health Care",404,"https://dmhc.ca.gov/sitemap.xml",false,0,0
+ltg.ca.gov,"Office of Lieutenant Governor",200,"https://ltg.ca.gov/sitemap.xml",true,158,0
 mbc.ca.gov,"Medical Board of California ",200,"https://www.mbc.ca.gov/sitemap.xml",true,738,491
+dmhc.ca.gov,"Department of Managed Health Care",404,"https://dmhc.ca.gov/sitemap.xml",false,0,0
+calottery.com,"California Lottery",200,"https://www.calottery.com/sitemap.xml",true,185,0
+dmv.ca.gov,"Department of Motor Vehicles",200,"https://www.dmv.ca.gov/sitemap.xml",false,0,0
 mhsoac.ca.gov,"Mental Health Services Oversight and Accountability Commission",200,"https://mhsoac.ca.gov/wp-sitemap.xml",true,0,0
 calguard.ca.gov,"California Military Department",200,"https://calguard.ca.gov/sitemap.xml",true,0,0
-dmv.ca.gov,"Department of Motor Vehicles",200,"https://www.dmv.ca.gov/sitemap.xml",false,0,0
-nahc.ca.gov,"Native American Heritage Commission",200,"https://nahc.ca.gov/wp-sitemap.xml",true,0,0
+slc.ca.gov,"California State Lands Commission",404,"https://slc.ca.gov/wp-sitemap.xml",false,0,0
 resources.ca.gov,"California Natural Resources Agency",404,"https://resources.ca.gov/sitemap.xml",false,0,0
-naturopathic.ca.gov,"Naturopathic Medicine Committee ",200,"https://naturopathic.ca.gov/sitemap.xml",true,539,472
+nahc.ca.gov,"Native American Heritage Commission",200,"https://nahc.ca.gov/wp-sitemap.xml",true,0,0
 nmvb.ca.gov,"New Motor Vehicle Board  ",200,"https://www.nmvb.ca.gov/sitemap_index.xml",true,78,0
+naturopathic.ca.gov,"Naturopathic Medicine Committee ",200,"https://naturopathic.ca.gov/sitemap.xml",true,539,472
 bot.ca.gov,"California Board of Occupational Therapy",200,"https://bot.ca.gov/sitemap.xml",true,852,764
+parks.ca.gov,"Department of Parks and Recreation",500,"null",false,0,0
 opc.ca.gov,"Ocean Protection Council",200,"https://opc.ca.gov/sitemap_index.xml",true,0,0
 ombc.ca.gov,"Osteopathic Medical Board of California ",200,"https://ombc.ca.gov/sitemap.xml",true,396,325
-parks.ca.gov,"Department of Parks and Recreation",500,"null",false,0,0
-opa.ca.gov,"Office of the Patient Advocate",500,"null",false,0,0
-post.ca.gov,"Commission on Peace Officer Standards and Training",200,"https://post.ca.gov/404-Error-Page",false,0,0
 spb.ca.gov,"State Personnel Board",404,"https://spb.ca.gov/sitemap.xml",false,0,0
+post.ca.gov,"Commission on Peace Officer Standards and Training",200,"https://post.ca.gov/404-Error-Page",false,0,0
 cdpr.ca.gov,"Department of Pesticide Regulation",200,"https://www.cdpr.ca.gov/sitemap.xml",true,544,274
+pab.ca.gov,"Physician Assistant Board ",200,"https://template.webstandards.ca.gov/sitemap.xml",true,80,0
 pharmacy.ca.gov,"California State Board of Pharmacy",404,"https://pharmacy.ca.gov/sitemap.xml",false,0,0
 ptbc.ca.gov,"Physical Therapy Board of California",200,"https://ptbc.ca.gov/sitemap.xml",true,317,176
-pab.ca.gov,"Physician Assistant Board ",200,"https://template.webstandards.ca.gov/sitemap.xml",true,80,0
-bopc.ca.gov,"Board of Pilot Commissioners for the Bays of San Francisco, San Pablo, and Suisun",200,"https://bopc.ca.gov/sitemap.xml",true,0,0
 opr.ca.gov,"Governor's Office of Planning and Research",200,"http://opr.ca.gov/sitemap.xml",true,967,552
-pmbc.ca.gov,"Podiatric Medical Board of California",200,"https://pmbc.ca.gov/sitemap.xml",true,448,398
+bopc.ca.gov,"Board of Pilot Commissioners for the Bays of San Francisco, San Pablo, and Suisun",200,"https://bopc.ca.gov/sitemap.xml",true,0,0
+pmbc.ca.gov,"Podiatric Medical Board of California",200,"https://pmbc.ca.gov/sitemap.xml",true,454,404
 calpia.ca.gov,"Prison Industry Authority",404,"http://calpia.ca.gov/sitemap.xml",false,0,0
-bppe.ca.gov,"Bureau for Private and Postsecondary Education",200,"https://bppe.ca.gov/sitemap.xml",true,2954,2869
 fiduciary.ca.gov,"Professional Fiduciaries Bureau",200,"https://fiduciary.ca.gov/sitemap.xml",true,74,41
-psychology.ca.gov,"Board of Psychology",200,"https://psychology.ca.gov/sitemap.xml",true,2828,2537
+bppe.ca.gov,"Bureau for Private and Postsecondary Education",200,"https://bppe.ca.gov/sitemap.xml",true,2954,2869
 calpers.ca.gov,"California Public Employees Retirement System",404,"https://www.calpers.ca.gov/sitemap.xml",false,0,0
-perb.ca.gov,"California Public Employment Relations Board",200,"https://perb.ca.gov/sitemap_index.xml",true,0,0
 cdph.ca.gov,"California Department of Public Health",200,"https://www.cdph.ca.gov/sitemap.xml",true,0,0
-cpuc.ca.gov,"California Public Utilities Commission",500,"null",false,0,0
+psychology.ca.gov,"Board of Psychology",200,"https://psychology.ca.gov/sitemap.xml",true,2828,2537
 dre.ca.gov,"Department of Real Estate",200,"http://dre.ca.gov/sitemap.xml",true,172,0
 cirm.ca.gov,"California Institute for Regenerative Medicine",200,"https://www.cirm.ca.gov/wp-sitemap.xml",true,0,0
+perb.ca.gov,"California Public Employment Relations Board",200,"https://perb.ca.gov/sitemap_index.xml",true,0,0
+rcb.ca.gov,"Respiratory Care Board of California ",404,"https://rcb.ca.gov/sitemap.xml",false,0,0
 rn.ca.gov,"California Board of Registered Nursing",200,"https://rn.ca.gov/sitemap.xml",true,657,536
 dor.ca.gov,"Department of Rehabilitation",404,"https://dor.ca.gov/sitemap.xml",false,0,0
-calrecycle.ca.gov,"Department of Resources Recycling and Recovery",200,"https://calrecycle.ca.gov/sitemap.xml",true,1223,0
-rcb.ca.gov,"Respiratory Care Board of California ",404,"https://rcb.ca.gov/sitemap.xml",false,0,0
 deltaconservancy.ca.gov,"Sacramento-San Joaquin Delta Conservancy",200,"https://deltaconservancy.ca.gov/wp-sitemap.xml",true,0,0
 sdrc.ca.gov,"San Diego River Conservancy",200,"https://sdrc.ca.gov/wp-sitemap.xml",true,0,0
-bcdc.ca.gov,"San Francisco Bay Conservation and Development Commission",404,"https://bcdc.ca.gov/sitemap.xml",false,0,0
+calrecycle.ca.gov,"Department of Resources Recycling and Recovery",200,"https://calrecycle.ca.gov/sitemap.xml",true,1231,0
+bcdc.ca.gov,"San Francisco Bay Conservation and Development Commission",200,"https://bcdc.ca.gov/sitemap.xml",true,0,0
 rmc.ca.gov,"San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",200,"https://rmc.ca.gov/wp-sitemap.xml",true,0,0
 sjrc.ca.gov,"San Joaquin River Conservancy",200,"https://sjrc.ca.gov/wp-sitemap.xml",true,0,0
-smmc.ca.gov,"Santa Monica Mountains Conservancy",200,"https://smmc.ca.gov/wp-sitemap.xml",true,0,0
-saveourwater.com,"Save Our Water",200,"https://saveourwater.com/sitemap_index.xml",true,0,0
-sos.ca.gov,"Secretary of State",404,"https://www.sos.ca.gov/sitemap.xml",false,0,0
 bsis.ca.gov,"Bureau of Security and Investigative Services",200,"https://bsis.ca.gov/sitemap.xml",true,64,0
+saveourwater.com,"Save Our Water",200,"https://saveourwater.com/sitemap_index.xml",true,0,0
+smmc.ca.gov,"Santa Monica Mountains Conservancy",200,"https://smmc.ca.gov/wp-sitemap.xml",true,0,0
 ssc.ca.gov,"Seismic Safety Commission",200,"https://ssc.ca.gov/wp-sitemap.xml",true,0,0
-senate.ca.gov,"California State Senate",200,"https://www.senate.ca.gov/sitemap.xml",true,123,1
-sierranevada.ca.gov,"Sierra Nevada Conservancy",200,"https://sierranevada.ca.gov/sitemap.xml",true,151,0
-cdss.ca.gov,"Department of Social Services",500,"null",false,0,0
+sos.ca.gov,"Secretary of State",404,"https://www.sos.ca.gov/sitemap.xml",false,0,0
+senate.ca.gov,"California State Senate",200,"https://www.senate.ca.gov/sitemap.xml",true,121,1
 speechandhearing.ca.gov,"Speech-Language Pathology and Audiology and Hearing Aid Dispensers Board ",200,"https://speechandhearing.ca.gov/sitemap.xml",true,302,233
+sierranevada.ca.gov,"Sierra Nevada Conservancy",200,"https://sierranevada.ca.gov/sitemap.xml",true,153,0
+cdss.ca.gov,"Department of Social Services",500,"null",false,0,0
+ccoa.ca.gov,"California Commission on Aging",500,"null",false,0,0
+aging.ca.gov,"Department of Aging",500,"null",false,0,0
 osfm.fire.ca.gov,"Office of the State Fire Marshal",200,"https://www.fire.ca.gov/sitemaps/sitemap.xml",true,149,0
 dsh.ca.gov,"Department of State Hospitals",200,"https://www.dsh.ca.gov/sitemap.xml",true,454,264
 csm.ca.gov,"Commission on State Mandates",200,"https://csm.ca.gov/sitemap.xml",true,64,0
-calstrs.com,"California State Teachers Retirement System",200,"https://www.calstrs.com/sitemap.xml",true,933,0
+calstrs.com,"California State Teachers Retirement System",200,"https://www.calstrs.com/sitemap.xml",true,872,0
 waterboards.ca.gov,"State Water Resources Control Board",300,"https://www.waterboards.ca.gov/sitemap.xml",false,0,0
-women.ca.gov,"Commission on Status of Women and Girls",200,"https://women.ca.gov/sitemap.xml",true,0,0
-pestboard.ca.gov,"Structural Pest Control Board ",200,"https://pestboard.ca.gov/sitemap.xml",true,665,602
-csac.ca.gov,"California Student Aid Commission",200,"https://www.csac.ca.gov/sitemap.xml",true,1499,2
+pestboard.ca.gov,"Structural Pest Control Board ",200,"https://pestboard.ca.gov/sitemap.xml",true,666,603
 osi.ca.gov,"Office of Systems Integration",200,"https://osi.ca.gov/sitemap.xml",true,69,11
-tahoe.ca.gov,"California Tahoe Conservancy",200,"https://tahoe.ca.gov/sitemap.xml",true,0,0
-cdtfa.ca.gov,"California Department of Tax and Fee Administration",200,"https://cdtfa.ca.gov/sitemap.xml",true,18781,5873
-ctc.ca.gov,"Commission on Teacher Credentialing",500,"null",false,0,0
-cdt.ca.gov,"California Department of Technology",200,"https://cdt.ca.gov/sitemap.xml",true,346,0
+csac.ca.gov,"California Student Aid Commission",200,"https://www.csac.ca.gov/sitemap.xml",true,1509,2
+women.ca.gov,"Commission on Status of Women and Girls",200,"https://women.ca.gov/sitemap.xml",true,0,0
 dtsc.ca.gov,"Department of Toxic Substances Control",200,"https://dtsc.ca.gov/sitemap.xml",true,0,0
+tahoe.ca.gov,"California Tahoe Conservancy",200,"https://tahoe.ca.gov/sitemap.xml",true,0,0
+cdt.ca.gov,"California Department of Technology",200,"https://cdt.ca.gov/sitemap.xml",true,345,0
+cdtfa.ca.gov,"California Department of Tax and Fee Administration",200,"https://cdtfa.ca.gov/sitemap.xml",true,18781,5873
 ots.ca.gov,"Office of Traffic Safety",200,"https://www.ots.ca.gov/",false,0,5
-calsta.ca.gov,"California State Transportation Agency",200,"https://dot.ca.gov/caltrans-sitemap.xml",true,1377,0
 catc.ca.gov,"Transportation Commission",200,"https://dot.ca.gov/caltrans-sitemap.xml",true,1377,0
 dot.ca.gov,"Department of Transportation",200,"https://dot.ca.gov/caltrans-sitemap.xml",true,1377,0
 treasurer.ca.gov,"State Treasurer's Office",200,"https://www.treasurer.ca.gov/sitemap.xml",true,9148,5815
 cuiab.ca.gov,"Unemployment Insurance Appeals Board",200,"https://cuiab.ca.gov/sitemap.xml",true,0,0
+calsta.ca.gov,"California State Transportation Agency",200,"https://dot.ca.gov/caltrans-sitemap.xml",true,1377,0
 universityofcalifornia.edu,"University of California",200,"https://www.universityofcalifornia.edu/sitemap.xml",true,0,0
-calstate.edu,"California State University",200,"https://www.calstate.edu/sitemap.xml",true,0,0
 calvet.ca.gov,"Department of Veterans Affairs",500,"null",false,0,0
-vmb.ca.gov,"Veterinary Medical Board ",200,"https://vmb.ca.gov/sitemap.xml",true,1057,903
+calstate.edu,"California State University",200,"https://www.calstate.edu/sitemap.xml",true,0,0
 victims.ca.gov,"California Victim Compensation Board",200,"https://victims.ca.gov/sitemap_index.xml",true,0,0
-visitcalifornia.com,"Visit California",200,"https://www.visitcalifornia.com/sitemap-d8.xml",true,11440,0
+vmb.ca.gov,"Veterinary Medical Board ",200,"https://vmb.ca.gov/sitemap.xml",true,1057,903
 bvnpt.ca.gov,"Board of Vocational Nursing and Psychiatric Technicians",200,"https://bvnpt.ca.gov/sitemap.xml",true,154,87
-californiavolunteers.ca.gov,"California Volunteers",200,"https://www.californiavolunteers.ca.gov/sitemap.xml",true,0,0
-cwc.ca.gov,"California Water Commission",404,"https://cwc.ca.gov/sitemap.xml",false,0,0
-water.ca.gov,"Department of Water Resources",404,"https://water.ca.gov/sitemap.xml",false,0,0
+visitcalifornia.com,"Visit California",404,"https://www.visitcalifornia.com/sitemap.xml",false,0,0
 wcb.ca.gov,"Wildlife Conservation Board",404,"https://wcb.ca.gov/sitemap.xml",false,0,0
+cwc.ca.gov,"California Water Commission",404,"https://cwc.ca.gov/sitemap.xml",false,0,0
+californiavolunteers.ca.gov,"California Volunteers",200,"https://www.californiavolunteers.ca.gov/sitemap.xml",true,0,0
 cwdb.ca.gov,"California Workforce Development Board",200,"https://cwdb.ca.gov/sitemap.xml",true,0,0
-ca.gov,"State of California",200,"https://www.ca.gov/sitemap.xml",true,407,1
+water.ca.gov,"Department of Water Resources",404,"https://water.ca.gov/sitemap.xml",false,0,0
+dgs.ca.gov,"Department of General Services",500,"null",false,0,0
+opa.ca.gov,"Office of the Patient Advocate",500,"null",false,0,0
+cpuc.ca.gov,"California Public Utilities Commission",500,"null",false,0,0
+ctc.ca.gov,"Commission on Teacher Credentialing",500,"null",false,0,0

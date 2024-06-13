@@ -18,7 +18,7 @@ const getColor = score => {
     return 'danger';
 };
 
-const CHECK_WWW = false;
+let CHECK_WWW = false;
 
 let cache;
 const getData = async (file) => {
